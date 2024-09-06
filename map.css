@@ -1,0 +1,53 @@
+
+img{
+    width: 430px;
+    margin: 10px;
+    /* display: block; */
+}
+p{
+    max-width:50%;
+    margin:0 25%;
+    text-align: center;
+}
+body{
+    background-color: #FEFDED;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color:#4793AF ;
+    text-align: center;
+}
+
+h2{
+    color:#4793AF ;
+    text-align: center;
+    
+}
+a{
+    color:#982B1C ;
+}
+
+nav{
+    text-align: center;
+    margin-bottom: 10px ;
+}
+
+nav a{
+    text-decoration: underline;
+    margin: 0 10px;
+}
+
+.info span
+{
+    color:#982B1C;
+    background-color: blanchedalmond;
+}
+
+.detay{
+    margin:10px 38%;
+}
+
+/* li{
+    list-style-type: none;
+    text-align: center; 
+} */
